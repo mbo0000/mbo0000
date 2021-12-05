@@ -14,4 +14,4 @@ My name is Minh Bo. I am currently working as an Operation Coordinator for a sel
 #### Projects include: 
 - [**Web Scrapping**](https://github.com/mbo0000/Portfolio/tree/main/PythonWebscraping) for job posting for Entry-level Data Analyst in the SF Bay Areas through Linkedin. 
 - [**Text Analysis**](https://github.com/mbo0000/Portfolio/tree/main/TextAnalysisWithNLP) using **NLP** library for identifying tops skills requested by potential employers using data mined from the **Web Scrapping** project. 
-- Combine [**SQL, Big Query** and **Python**](https://github.com/mbo0000/Portfolio/tree/main/BigQuerySQL) in order to do a case study of Stackoverflow user trend and retention.
+- Combined [**SQL, Big Query** and **Python**](https://github.com/mbo0000/Portfolio/tree/main/BigQuerySQL) in order to do a case study of Stackoverflow users trend and retention.
