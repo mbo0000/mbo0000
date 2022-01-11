@@ -2,6 +2,8 @@
 
 My name is Minh Bo. I am currently working as an Operation Coordinator for a self driving(AKA. autonomous) vehicle company in San Francisco, CA. With many curiosities, I enjoy exploring and answering questions both in my professional and personal lives through the use of data. 
 
+### Connect With Me:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-b-0bb0628b)
 
 ### Analytic Toolbox: 🧰🛠️
 -  Standard ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) in Postgres, BigQuery and others database systems. 
