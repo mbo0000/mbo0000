@@ -15,3 +15,7 @@ My name is Minh Bo. I am currently working as an Operation Coordinator for a sel
 ### Personal Projects 📂: 
 - [**Data Analyst Top Skills**](https://github.com/mbo0000/Portfolio/tree/main/DataAnalyticTopSkills) by scrapping job postings for Entry-level Data Analyst in the SF Bay Areas through Linkedin and rank them. This one has been done to death by the data science community. However, I chose this topic as my first project since it is personal to me. 
 - A quick [**Stack Overflow Analysis**](https://github.com/mbo0000/Portfolio/tree/main/StackoverflowAnalysis) with available data from BigQuery public dataset. I use Stack Overflow over a dozen times a day and would like to see how is the platform is doing from a business perspective.
+
+### Personal Random Tips & Tricks: 🎲
+- [Weekly Metrics Update](https://github.com/mbo0000/RandomStuffs/blob/main/SpreadSheet%20Things/Weekly%20Metric/weekly_metric.md)
+- [Dynamic Range by Reference](https://github.com/mbo0000/RandomStuffs/blob/main/SpreadSheet%20Things/dynamic_data_range.md)
