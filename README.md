@@ -1,6 +1,6 @@
 ## Hi there, 👋
 
-I am passionate about using data to drive decision-making and improve organizational performance. With a background in both data analysis and business, I have a unique perspective on how data can inform and support business strategy. My goal is to help organizations make data-driven decisions that lead to increased efficiency, productivity, and profitability. Whether it's through data visualization, statistical analysis, or process optimization, I bring a collaborative and results-driven approach to every project I work on.
+I am passionate about using data to drive decision-making and improve organizational performance. With a background in both data analysis and business operations, I have a unique perspective on how data can inform and support business strategy. My goal is to help organizations make data-driven decisions that lead to increased efficiency, productivity, and profitability. Whether it's through data visualization, statistical analysis, or process optimization, I bring a collaborative and results-driven approach to every project I work on.
 
 ### Connect With Me:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-b-0bb0628b)
