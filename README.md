@@ -8,8 +8,8 @@ I am passionate about using data to drive decision-making and improve organizati
 ### Analytic Toolbox: 🧰🛠️
 -  Standard ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) in Postgres, BigQuery, Snowflake and others database platforms. 
 - ![](https://img.shields.io/badge/Sheet-informational?style=flat&logo=google&logoColor=white&color=2bbc8a) and ![](https://img.shields.io/badge/Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=2bbc8a) for small scale project, quick analysis, data wrangling and other automated tasks through Google API services.  
-- ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) prefered choice of tool for mid to heavy lifting projects. Ranging from data mining to  project.  
-- ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) working knowledge of popular data analytic packages. 
+- ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) as my go-to language for all big and small projects.
+- ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) jobs and reports automation in Google App Script. 
 - ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a) and ![](https://img.shields.io/badge/Looker-informational?style=flat&logo=looker&logoColor=white&color=2bbc8a) for all data visualization needs. 
 
 ### Personal Projects 📂: 
