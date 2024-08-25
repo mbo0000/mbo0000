@@ -14,7 +14,7 @@ Hello, my name is Minh Bo👨‍🔧. I am currently working as a Business Analy
 |                                                                                                              |                                                                                                   |                                                                                              |                                                                                                                | ![Gitlab](https://img.shields.io/badge/Gitlab-Orange?style=flat&logo=Gitlab&logoColor=White&color=purple)  |                                                                                                                     | 
                                                                                                                                                                                                                                                                                                                                                                                                                                          
 ### What I am working on 📂: 
-- 🚧[**Data Export With Email Notification**](https://github.com/mbo0000/airflow-custom-hook-operator)
+- ✔️ [**Data Export With Email Notification**](https://github.com/mbo0000/airflow-custom-hook-operator)
 - ✔️ [**NBA Sport API Batch Data Pipeline**](https://github.com/mbo0000/nba-sport-airflow)
 - ✔️ [**NBA Sport API Data Ingestion**](https://github.com/mbo0000/nba-sport-extractor)
 - ✔️ [**Stack Overflow Analysis**](https://github.com/mbo0000/Personal-Projects/blob/main/Stackoverflow/notebook/stackoverflow_analysis.ipynb)
