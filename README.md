@@ -15,3 +15,4 @@ Hello, my name is Minh Bo👨‍🔧. I am currently working as a Business Analy
                                                                                                                                                                                                                                                                                                                                                                                                                                          
 ### What I am working on 📂: 
 - ✔️ [**NBA Stats**](https://github.com/mbo0000/nba_e2e_data_pipeline)
+- ✔️ [**Stack Overflow EDA**](https://github.com/mbo0000/Personal-Projects/blob/main/Stackoverflow/notebook/stackoverflow_analysis.ipynb)
